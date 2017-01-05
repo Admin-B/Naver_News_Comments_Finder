@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\NaverNews_Crawler\NaverNews_Crawler\bin\Release\NaverNews_Crawler.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\NaverNews_Crawler\NaverNews_Crawler\bin\Release\NaverNews_Crawler.exe
+c:\users\administrator\documents\visual studio 2015\Projects\NaverNews_Crawler\NaverNews_Crawler\bin\Release\NaverNews_Crawler.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\NaverNews_Crawler\NaverNews_Crawler\bin\Release\System.Net.Json.dll
+c:\users\administrator\documents\visual studio 2015\Projects\NaverNews_Crawler\NaverNews_Crawler\obj\Release\NaverNews_Crawler.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\NaverNews_Crawler\NaverNews_Crawler\obj\Release\NaverNews_Crawler.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\NaverNews_Crawler\NaverNews_Crawler\obj\Release\NaverNews_Crawler.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\NaverNews_Crawler\NaverNews_Crawler\obj\Release\NaverNews_Crawler.exe
+c:\users\administrator\documents\visual studio 2015\Projects\NaverNews_Crawler\NaverNews_Crawler\obj\Release\NaverNews_Crawler.pdb

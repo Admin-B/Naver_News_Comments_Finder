@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2015\Projects\NaverNews_Crawler\NaverNews_Crawler\bin\Debug\NaverNews_Crawler.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\NaverNews_Crawler\NaverNews_Crawler\bin\Debug\NaverNews_Crawler.exe
+c:\users\administrator\documents\visual studio 2015\Projects\NaverNews_Crawler\NaverNews_Crawler\bin\Debug\NaverNews_Crawler.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\NaverNews_Crawler\NaverNews_Crawler\bin\Debug\System.Net.Json.dll
+c:\users\administrator\documents\visual studio 2015\Projects\NaverNews_Crawler\NaverNews_Crawler\obj\Debug\NaverNews_Crawler.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\NaverNews_Crawler\NaverNews_Crawler\obj\Debug\NaverNews_Crawler.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\NaverNews_Crawler\NaverNews_Crawler\obj\Debug\NaverNews_Crawler.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\NaverNews_Crawler\NaverNews_Crawler\obj\Debug\NaverNews_Crawler.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\NaverNews_Crawler\NaverNews_Crawler\obj\Debug\NaverNews_Crawler.exe
+c:\users\administrator\documents\visual studio 2015\Projects\NaverNews_Crawler\NaverNews_Crawler\obj\Debug\NaverNews_Crawler.pdb
